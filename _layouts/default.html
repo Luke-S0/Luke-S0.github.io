@@ -21,7 +21,7 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if page.hideBack == false}
+      {% if page.hideBack == false %}
         <button class="btn" onclick="history.back()">Back</button>
       {% endif %}
     </header>
