@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: study
 title: 1.1 Systems Architecture
 ---
 

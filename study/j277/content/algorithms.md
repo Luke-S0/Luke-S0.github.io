@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: study
 title: 2.1 Algorithms
 ---
 

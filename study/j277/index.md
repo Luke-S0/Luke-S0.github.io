@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: study
 title: GCSE Computer Science J277
 ---
 
