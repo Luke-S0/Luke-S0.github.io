@@ -1,7 +1,6 @@
 ---
 layout: default
 title: GCSE Computer Science J277
-showBack: true
 ---
 
 [Past papers](https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/assessment/)

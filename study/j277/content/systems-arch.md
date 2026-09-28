@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 1.1 Systems Architecture
-showBack: true
 ---
 
 ## CPU Architecture

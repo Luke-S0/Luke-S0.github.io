@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 2.1 Algorithms
-showBack: true
 ---
 
 ## Computational thinking
