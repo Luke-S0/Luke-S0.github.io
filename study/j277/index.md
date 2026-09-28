@@ -1,6 +1,6 @@
 ---
 layout: default
-title: J277
+title: GCSE Computer Science J277
 showBack: true
 ---
 
