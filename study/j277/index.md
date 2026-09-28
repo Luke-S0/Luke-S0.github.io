@@ -15,7 +15,7 @@ showBack: true
 6. Issues and legislation
 
 ## Paper 2
-1. Algorithms
+1. [Algorithms](content/algorithms.html)
 2. Programming fundamentals
 3. Robust programs
 4. Boolean logic
