@@ -8,13 +8,13 @@ body {
     font-family: "Noto Sans", sans-serif;
 }
 
-.page-header {
-    
+.project-name {
+    color: #a0b9d2
 }
 
 .main-content {
     h1, h2, h3, h4, h5, h6 {
-        color: #adf;
+        color: #a0b9d2;
     }
 }
 
@@ -22,14 +22,14 @@ body {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: linear-gradient(0deg, rgb(0, 57, 96), rgb(0, 79, 132));
+  background-image: linear-gradient(0deg, #282828, #282828);
 
   @include large {
-    padding: 4rem 6rem;
+    padding: 2rem 6rem;
   }
 
   @include medium {
-    padding: 2rem 4rem;
+    padding: 1.5rem 4rem;
   }
 
   @include small {
