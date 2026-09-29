@@ -1,6 +1,7 @@
 ---
 layout: study
-title: 1.1 Systems Architecture
+title: Notes
+description: OCR GCSE 1.1 Systems Architecture
 ---
 
 ## CPU Architecture

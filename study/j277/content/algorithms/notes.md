@@ -1,6 +1,7 @@
 ---
 layout: study
-title: 2.1 Algorithms
+title: Notes
+description: OCR GCSE 2.1 Algorithms
 ---
 
 ## Computational thinking
