@@ -8,4 +8,4 @@ description: OCR J277
 
 [CPU Performance](cpu-perf/)
 
-[CPU Architecture](embed-system/)
+[Embedded Systems](embed-system/)
