@@ -27,12 +27,9 @@ There are four CPU registers you need to know about for OCR J277.
 - Memory data register (MDR) - This stores the data or instruction that has been fetched or is about to be written.
 - Accumulator - This stores the results of mathematical/logical problems solved in the ALU.
 
-[Quizlet cards](https://quizlet.com/gb/1185116705/11-cpu-architecture-flash-cards)
 
 ---
 ## CPU Performance
-[Quizlet cards](https://quizlet.com/gb/1185118855/11-cpu-performance-flash-cards)
 
 ---
 ## Embedded systems
-[Quizlet cards](https://quizlet.com/gb/1185208543/11-embedded-systems-flash-cards)
