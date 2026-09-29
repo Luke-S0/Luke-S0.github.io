@@ -6,7 +6,7 @@ title: GCSE Computer Science J277
 [Past papers](https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/assessment/)
 
 ## Paper 1
-1. [Systems architecture](content/systems-arch/)
+1. [Systems architecture](systems-arch/)
 2. Memory and storage
 3. Computer networks
 4. Network security
@@ -14,7 +14,7 @@ title: GCSE Computer Science J277
 6. Issues and legislation
 
 ## Paper 2
-1. [Algorithms](content/algorithms/)
+1. [Algorithms](algorithms/)
 2. Programming fundamentals
 3. Robust programs
 4. Boolean logic
