@@ -4,10 +4,8 @@ title: 1.1 Systems Architecture
 description: OCR J277
 ---
 
-**[Notes](resources/notes.html)**
+[CPU Architecture](cpu-arch/)
 
-Read revision notes for the topic, adapted to the specification.
+[CPU Performance](cpu-perf/)
 
-**[Flashcards](resources/flashcards.html)**
-
-Find Quizlet flashcards for this topic.
+[CPU Architecture](embed-systems/)
