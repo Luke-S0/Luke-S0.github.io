@@ -44,3 +44,21 @@ body {
     padding: 1rem 1rem;
   }
 }
+
+.mobile-nav {
+  display: block
+}
+
+.desktop-nav {
+  display: none
+}
+
+@media (min-width: 400px) {
+  .mobile-nav {
+    display: none;
+  }
+
+  .desktop-nav {
+    display: block
+  }
+}

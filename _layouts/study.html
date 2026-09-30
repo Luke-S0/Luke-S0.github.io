@@ -18,13 +18,7 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <div class="main-content" style="border-radius: 0px 0px 10px 10px">
-      <h2>CS Study</h2>
-      <div>
-        <a class="btn" href="../" style="margin-bottom: 0px;">← Back</a>
-        <a class="btn" href="/study/" style="margin-bottom: 0px;">Change course</a>
-      </div>
-    </div>
+    {% include study-header.html %}
     
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
