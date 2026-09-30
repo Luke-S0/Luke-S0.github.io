@@ -13,8 +13,8 @@ title: GCSE Computer Science J277
 1. [Systems architecture](systems-arch/)
 2. [Memory and storage](memory-storage/)
 3. [Computer networks](networks/)
-4. Network security
-5. Systems software
+4. [Network security](network-security/)
+5. [Systems software](systems-software/)
 6. Issues and legislation
 
 ## Paper 2
