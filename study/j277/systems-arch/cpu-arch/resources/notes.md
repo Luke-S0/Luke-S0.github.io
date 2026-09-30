@@ -4,6 +4,7 @@ title: Notes
 description: OCR J277 / 1.1 / CPU Architecture
 ---
 
+{% include toc.md %}
 
 ## Fetch-Execute Cycle
 The CPU processes and executes instructions from the RAM in order for a computer to function. It carries out the fetch-execute cycle.
