@@ -27,13 +27,10 @@
 
     <main id="content" class="main-content" role="main">
       {{ content }}
+      <h2>Resources</h2>
       {% if page.notes %}
         <a href="resources/notes.html">Notes</a>
         <p>Read revision notes for the topic, adapted to the specification.</p>
-      {% endif %}
-      {% if page.flashcards %}
-        <a href="resources/flashcards.html">Flashcards</a>
-        <p>Find Quizlet flashcards for this topic.</p>
       {% endif %}
       {% if page.worksheets %}
         <a href="resources/worksheets.html">Worksheets</a>
@@ -42,6 +39,11 @@
       {% if page.code %}
         <a href="resources/code.html">Code</a>
         <p>Find coded algorithms for this topic.</p>
+      {% endif %}
+      <h2>Recall</h2>
+      {% if page.flashcards %}
+        <a href="resources/flashcards.html">Flashcards</a>
+        <p>Find Quizlet flashcards for this topic.</p>
       {% endif %}
 
       <footer class="site-footer">
