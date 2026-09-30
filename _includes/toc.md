@@ -1,3 +1,6 @@
 
+## Table of contents
+{: .no_toc}
+
 * TOC
 {:toc}
