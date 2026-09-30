@@ -3,6 +3,8 @@ layout: default
 title: Site and content license
 ---
 
+[Return to study hub](/study/)
+
 ## Website
 The layouts, templates and CSS of the website are licensed under the MIT license.
 
