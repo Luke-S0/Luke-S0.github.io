@@ -7,6 +7,7 @@ title: GCSE Computer Science J277
 
 - [Past papers](https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/assessment/) 
 - [Grade boundaries](tools/boundaries.html)
+- [Specification](https://www.ocr.org.uk/Images/558027-specification-gcse-computer-science-j277.pdf)
 
 ## Paper 1
 1. [Systems architecture](systems-arch/)

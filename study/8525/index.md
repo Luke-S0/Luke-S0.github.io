@@ -6,6 +6,7 @@ title: GCSE Computer Science 8525
 ## Tools
 
 - [Past papers](https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/assessment-resources)
+- [Specification](https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification)
 
 ## Paper 1
 1. Algorithms
