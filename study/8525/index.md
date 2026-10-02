@@ -14,7 +14,7 @@ title: GCSE Computer Science 8525
 
 ## Paper 2
 1. Data representation
-2. Computer systems
+2. [Computer systems](systems/)
 3. Computer networks
 4. Cyber security
 5. Databases and SQL
