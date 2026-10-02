@@ -4,7 +4,7 @@ title: 1.2 Memory and Storage
 description: OCR J277
 ---
 
-Primary storage
+[Primary storage](primary/)
 
 Secondary storage
 
