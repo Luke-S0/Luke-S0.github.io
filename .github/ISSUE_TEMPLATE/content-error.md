@@ -2,7 +2,7 @@
 name: Content error
 about: Report a problem with revision notes
 title: "[CONTENT]"
-labels: ''
+labels: content
 assignees: Luke-S0
 
 ---
