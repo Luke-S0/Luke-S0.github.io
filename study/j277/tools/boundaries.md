@@ -27,6 +27,7 @@ These are the grade boundaries for Paper 1 Computer Systems.
 | Year | Total | 9 | 8 | 7 | 6 | 5 | 4 | 3 | 2 | 1 | U |
 | ---- | ----- | - | - | - | - | - | - | - | - | - | - |
 | 2026 | 80  | 72  | 67  | 63  | 55  | 48 | 41 | 29 | 18 | 7  | 0 |
+| 2025 | 80  | 70  | 65  | 61  | 54  | 47 | 41 | 30 | 20 | 10 | 0 |
 
 
 ---
@@ -36,3 +37,4 @@ These are the grade boundaries for Paper 2 Computational thinking, algorithms an
 | Year | Total | 9 | 8 | 7 | 6 | 5 | 4 | 3 | 2 | 1 | U |
 | ---- | ----- | - | - | - | - | - | - | - | - | - | - |
 | 2026 | 80  | 69  | 65  | 61  | 53  | 44 | 36 | 27 | 17 | 7  | 0 |
+| 2025 | 80  | 71  | 67  | 62  | 54  | 46 | 37 | 28 | 19 | 10 | 0 |
