@@ -1,6 +1,7 @@
 ---
 layout: study
-title: A-Level Computer Science H446
+title: OCR H446
+description: A-Level Computer Science
 hideBack: true
 ---
 

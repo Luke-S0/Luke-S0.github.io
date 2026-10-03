@@ -1,6 +1,7 @@
 ---
 layout: study
-title: GCSE Computer Science 8525
+title: AQA 8525
+description: GCSE Computer Science
 hideBack: true
 ---
 

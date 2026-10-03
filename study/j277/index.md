@@ -1,6 +1,7 @@
 ---
 layout: study
-title: GCSE Computer Science J277
+title: OCR J277
+description: GCSE Computer Science
 hideBack: true
 ---
 
