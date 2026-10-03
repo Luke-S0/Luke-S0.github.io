@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
             console.log("Applied dyslexic mode")
         }
         catch {
-            console.log("Failed to apply large font.")
+            console.log("Failed to apply dyslexic mode.")
         }
     }
 
@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
     
     if (largefont === "true") {
         try {
-            document.body.classList.add("dyslexic-mode")
+            document.body.classList.add("large-font")
             console.log("Applied large font")
         }
         catch {
