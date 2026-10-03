@@ -7,31 +7,26 @@ body {
     color: #333;
     font-family: "Instrument Sans", sans-serif;
 
-    &.dyslexic-mode {
+    &.dyslexic-mode * {
       font-family: "Lexend";
     }
 
+    
+    &.large-font {
+      font-size: 24px;
+    }
 }
 
 .project-name {
   color: #414d59;
   font-family: "Instrument Serif", serif;
 
-  &.dyslexic-mode {
-    font-family: "Lexend";
-  }
 
-  &.large-font {
-    font-size: 32px;
-  }
 }
 
 .project-tagline {
   color: #333;
 
-  &.large-font {
-    font-size: 32px;
-  }
 }
 
 .btn {
@@ -72,10 +67,6 @@ body {
 
     pre, code {
       font-family: "JetBrains Mono", monospace;
-    }
-
-    &.large-font {
-      font-size: 32px;
     }
 }
 

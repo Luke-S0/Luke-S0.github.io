@@ -7,17 +7,15 @@ document.addEventListener("DOMContentLoaded", (event) => {
     }
 
     if (dyslexicmode === "true") {
-        // apply dyslexic font to body text
-        document.body.classList.add("dyslexic-mode")
-        
         try {
-            document.querySelector(".project-name").classList.add("dyslexic-mode")
+            // apply dyslexic font to body text
+            document.body.classList.add("dyslexic-mode")
+            
+            console.log("Applied dyslexic mode")
         }
         catch {
-            console.log("Failed to apply dyslexic mode to .project-name")
+            console.log("Failed to apply large font.")
         }
-
-        console.log("Applied dyslexic mode")
     }
 
     if (largefont === null) {
@@ -26,11 +24,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
     
     if (largefont === "true") {
         try {
-            document.querySelectorAll(".main-content").forEach(element => {
-                element.classList.add("large-font");
-            });
-            document.querySelector(".project-name").classList.add("large-font")
-            document.querySelector(".project-tagline").classList.add("large-font")
+            document.body.classList.add("dyslexic-mode")
             console.log("Applied large font")
         }
         catch {
