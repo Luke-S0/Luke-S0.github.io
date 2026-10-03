@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
         document.body.classList.add("dyslexic-mode")
         
         try {
-            document.querySelector("project-name").classList.add(".dyslexic-mode")
+            document.querySelector(".project-name").classList.add(".dyslexic-mode")
         }
         catch {
             console.log("Failed to apply dyslexic mode to .project-name")
