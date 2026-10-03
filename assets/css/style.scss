@@ -17,22 +17,21 @@ body {
   color: #414d59;
   font-family: "Instrument Serif", serif;
 
-}
+  &.dyslexic-mode {
+    font-family: "Lexend";
+  }
 
-.project-name.dyslexic-mode {
-  font-family: "Lexend";
-}
-
-.project-name.large-font {
-  font-size: 32px;
+  &.large-font {
+    font-size: 32px;
+  }
 }
 
 .project-tagline {
   color: #333;
-}
 
-.project-tagline.large-font {
-  font-size: 32px;
+  &.large-font {
+    font-size: 32px;
+  }
 }
 
 .btn {
@@ -75,15 +74,9 @@ body {
       font-family: "JetBrains Mono", monospace;
     }
 
-    
-}
-
-.main-content.large-font {
-  font-size: 32px;
-
-  h1, h2, h3, h4, h5, h6 {
+    &.large-font {
       font-size: 32px;
-  }
+    }
 }
 
 .page-header {

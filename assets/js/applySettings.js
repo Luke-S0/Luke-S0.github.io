@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
         document.body.classList.add("dyslexic-mode")
         
         try {
-            document.querySelector(".project-name").classList.add(".dyslexic-mode")
+            document.querySelector(".project-name").classList.add("dyslexic-mode")
         }
         catch {
             console.log("Failed to apply dyslexic mode to .project-name")
@@ -27,10 +27,10 @@ document.addEventListener("DOMContentLoaded", (event) => {
     if (largefont === "true") {
         try {
             document.querySelectorAll(".main-content").forEach(element => {
-                element.classList.add(".large-font");
+                element.classList.add("large-font");
             });
-            document.querySelector(".project-name").classList.add(".large-font")
-            document.querySelector(".project-tagline").classList.add(".large-font")
+            document.querySelector(".project-name").classList.add("large-font")
+            document.querySelector(".project-tagline").classList.add("large-font")
             console.log("Applied large font")
         }
         catch {
