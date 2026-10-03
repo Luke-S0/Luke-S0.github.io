@@ -20,6 +20,12 @@ body {
   color: #414d59  ;
   border-color: #414d59;
   transition: none;
+
+  &:hover {
+    color: #414d59  ;
+    border-color: #414d59;
+    text-decoration: none;
+  }
 }
 
 .main-content {
