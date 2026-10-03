@@ -6,7 +6,11 @@ description: OCR J277
 
 Computational thinking
 
-Flowcharts, structure diagrams and pseudocode
+[Flowcharts](flowcharts/)
+
+Structure diagrams
+
+Pseudocode
 
 Trace tables
 

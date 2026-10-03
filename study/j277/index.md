@@ -19,7 +19,7 @@ title: GCSE Computer Science J277
 
 ## Paper 2
 1. [Algorithms](algorithms/)
-2. Programming fundamentals
+2. [Programming fundamentals](programming/)
 3. Robust programs
 4. Boolean logic
 5. Languages and IDEs
