@@ -7,7 +7,7 @@ body {
     color: #333;
     font-family: "Instrument Sans", sans-serif;
 
-    .dyslexic-mode {
+    &.dyslexic-mode {
       font-family: "Lexend";
     }
 }
@@ -16,7 +16,7 @@ body {
   color: #414d59;
   font-family: "Instrument Serif", serif;
 
-  .dyslexic-mode {
+  &.dyslexic-mode {
     font-family: "Lexend";
   }
 }
