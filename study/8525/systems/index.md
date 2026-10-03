@@ -14,6 +14,10 @@ Classification of programming languages and translators
 
 [CPU architecture](arch/)
 
-Memory and storage
+[Primary storage](primary/)
+
+[Secondary storage](secondary/)
+
+Cloud storage
 
 [Embedded systems](embed-system/)

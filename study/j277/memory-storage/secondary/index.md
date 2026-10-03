@@ -1,7 +1,7 @@
 ---
 layout: study-topic
-title: Embedded Systems
-description: AQA 8525 / 3.4
+title: Secondary Storage
+description: OCR J277 / 1.2
 notes: true
 flashcards: false
 ---

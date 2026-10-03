@@ -6,7 +6,7 @@ description: OCR J277
 
 [Primary storage](primary/)
 
-Secondary storage
+[Secondary storage](secondary/)
 
 Units of data
 
