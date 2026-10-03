@@ -28,7 +28,7 @@ What is the file size of a 800x600 desktop wallpaper with a 24-bit colour depth?
 
 <summary>Reveal answer</summary>
 
-<code>
+<pre>
 
 image file size (bits) = width (px) * height (px) * colour depth
 
@@ -42,7 +42,7 @@ image file size (bits) = 11 520 000
 
 1440 / 1000 = 1.44 MB
 
-</code>
+</pre>
 
 </details>
 
@@ -54,7 +54,7 @@ If the resolution of the image is 1920x1080 and the colour depth is 24-bits, wil
 
 <summary>Reveal answer</summary>
 
-<code>
+<pre>
 
 image file size (bits) = width (px) * height (px) * colour depth
 
@@ -68,7 +68,7 @@ image file size (bits) = 49 766 400
 
 6220.8 / 1000 = 6.2208 MB
 
-</code>
+</pre>
 
 <p>No, he will not be able to upload the image.</p>
 
@@ -92,7 +92,7 @@ What is the file size of a 12 second 16-bit sound file with a sample rate of 441
 
 <summary>Reveal answer</summary>
 
-<code>
+<pre>
 
 sound file size (bits) = sample rate * duration (s) * bit depth
 sound file size = 44100Hz * 10s * 16 bits
@@ -101,7 +101,7 @@ sound file size = 7056000 bits
 7056000 / 8 = 882000 bytes
 882000 / 1000 = 882 KB
 
-</code>
+</pre>
 
 </details>
 
@@ -123,7 +123,7 @@ What is the file size of a text file with 2000 characters, represented with ASCI
 
 <summary>Reveal answer</summary>
 
-<code>
+<pre>
 
 text file size (bits) = bits per character * number of characters
 
@@ -133,6 +133,6 @@ text file size (bits) = 16 000 bits
 16 000 bits / 8 = 2000 bytes
 2000 / 1000 = 2 KB
 
-</code>
+</pre>
 
 </details>
