@@ -17,8 +17,9 @@ body {
 }
 
 .btn {
-  color: #1e6bb8;
-  border-color: #2a2f36;
+  color: #414d59  ;
+  border-color: #414d59;
+  transition: none;
 }
 
 .main-content {
@@ -43,6 +44,10 @@ body {
 
     img {
       border-radius: 12px;
+    }
+
+    a {
+      color: #414d59
     }
 }
 
