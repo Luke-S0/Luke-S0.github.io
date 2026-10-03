@@ -10,6 +10,7 @@ body {
     &.dyslexic-mode {
       font-family: "Lexend";
     }
+
 }
 
 .project-name {
@@ -19,10 +20,18 @@ body {
   &.dyslexic-mode {
     font-family: "Lexend";
   }
+
+  &.large-font {
+    font-size: 32px;
+  }
 }
 
 .project-tagline {
-  color: #333
+  color: #333;
+
+  &.large-font {
+    font-size: 32px;
+  }
 }
 
 .btn {
@@ -65,6 +74,9 @@ body {
       font-family: "JetBrains Mono", monospace;
     }
 
+    &.large-font {
+      font-size: 32px;
+    }
 }
 
 .page-header {
