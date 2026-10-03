@@ -26,7 +26,9 @@ document.addEventListener("DOMContentLoaded", (event) => {
     
     if (largefont === "true") {
         try {
-            document.querySelector(".main-content").classList.add(".large-font")
+            document.querySelectorAll(".main-content").forEach(element => {
+                element.classList.add(".large-font");
+            });
             document.querySelector(".project-name").classList.add(".large-font")
             document.querySelector(".project-tagline").classList.add(".large-font")
             console.log("Applied large font")
