@@ -1,6 +1,7 @@
 ---
 layout: study
 title: GCSE Computer Science J277
+hideBack: true
 ---
 
 ## Tools

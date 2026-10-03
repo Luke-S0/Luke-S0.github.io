@@ -1,6 +1,7 @@
 ---
 layout: study
 title: GCSE Computer Science 8525
+hideBack: true
 ---
 
 ## Tools

@@ -1,6 +1,7 @@
 ---
 layout: study
 title: A-Level Computer Science H446
+hideBack: true
 ---
 
 ## Tools
