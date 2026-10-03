@@ -26,15 +26,15 @@ document.addEventListener("DOMContentLoaded", (event) => {
     
     if (largefont === "true") {
         try {
-            document.querySelector("main-content").add(".large-font")
-            document.querySelector("project-name").add(".large-font")
-            document.querySelector("project-tagline").add(".large-font")
+            document.querySelector(".main-content").add(".large-font")
+            document.querySelector(".project-name").add(".large-font")
+            document.querySelector(".project-tagline").add(".large-font")
+            console.log("Applied large font")
         }
         catch {
             console.log("Failed to apply large font.")
         }
 
-        console.log("Applied large font")
     }
 
 });
