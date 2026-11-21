@@ -47,9 +47,11 @@ code {
 }
 
 .menu-btn {
+    display:block;
     background-color: #222;
     color: #eee;
     border: 1px #333 solid;
-    border-radius: 12px;
-    padding: 6px;
+    border-radius: 6px;
+    padding: 8px;
+    margin-bottom:8px;
 }
